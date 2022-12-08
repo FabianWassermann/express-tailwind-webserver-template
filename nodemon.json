@@ -1,0 +1,5 @@
+{
+  "events": {
+    "restart": "npx tailwindcss -i ./client/tw-input.css -o ./client/tw-output.css --minify"
+  }
+}
